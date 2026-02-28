@@ -1,0 +1,7 @@
+/home/mnieto-m/Desktop/Cube3D/MLX42/buuild/CMakeFiles/mlx42.dir
+/home/mnieto-m/Desktop/Cube3D/MLX42/buuild/CMakeFiles/edit_cache.dir
+/home/mnieto-m/Desktop/Cube3D/MLX42/buuild/CMakeFiles/rebuild_cache.dir
+/home/mnieto-m/Desktop/Cube3D/MLX42/buuild/CMakeFiles/list_install_components.dir
+/home/mnieto-m/Desktop/Cube3D/MLX42/buuild/CMakeFiles/install.dir
+/home/mnieto-m/Desktop/Cube3D/MLX42/buuild/CMakeFiles/install/local.dir
+/home/mnieto-m/Desktop/Cube3D/MLX42/buuild/CMakeFiles/install/strip.dir
